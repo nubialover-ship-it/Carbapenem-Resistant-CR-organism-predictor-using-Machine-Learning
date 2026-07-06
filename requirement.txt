@@ -1,0 +1,9 @@
+
+streamlit
+scikit-learn
+pandas
+numpy
+imbalanced-learn
+matplotlib
+seaborn
+pip install imbalanced-learn
